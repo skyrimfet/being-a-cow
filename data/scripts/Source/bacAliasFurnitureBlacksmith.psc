@@ -1,0 +1,1 @@
+Scriptname bacAliasFurnitureBlacksmith extends ReferenceAlias  
