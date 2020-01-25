@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="ascii"?>
+<hkpackfile classversion="9" contentsversion="hk_2013.1.0-r1" toplevelobject="#0057">
+
+	<hksection name="__data__">
+
+		<hkobject name="#0058" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0059" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0060" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0061" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0062" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0063" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0064" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0064</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0063 #0062 #0061 #0060 #0059 #0058
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0067" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.375000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 0.375000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.375000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0066" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0067</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone07</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">11.886836</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 2.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0069" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.250000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 6.000000 0.250000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.250000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0068" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0069</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone08</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">5.760859</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 1.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0065" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0064</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0068 #0066</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0070" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0071" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0072" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">10.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0073" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0074" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0075" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0076" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0076</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0075 #0074 #0073 #0072 #0071 #0070
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0079" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.500000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 0.500000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.500000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0078" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0079</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone06</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.020817</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 2.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0077" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0076</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0066 #0078</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0080" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0081" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0082" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0083" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0084" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0085" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0086" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0086</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0085 #0084 #0083 #0082 #0081 #0080
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0089" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.625000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 0.625000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.625000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0088" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0089</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone05</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.157174</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 2.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0087" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0086</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0078 #0088</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0090" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0091" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0092" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0093" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0094" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0095" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0096" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0096</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0095 #0094 #0093 #0092 #0091 #0090
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0099" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.750000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 0.750000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.750000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0098" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0099</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone04</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.295834</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 2.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0097" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0096</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0088 #0098</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0100" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0101" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0102" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0103" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0104" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0105" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0106" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0106</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0105 #0104 #0103 #0102 #0101 #0100
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0109" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.875000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 0.875000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 0.875000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0108" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0109</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone03</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.200000</hkparam>
+					<hkparam name="restitution">0.500000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.436714</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.031250 0.031250 0.031250 2.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0107" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0106</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0098 #0108</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0110" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0111" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0112" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0113" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0114" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0115" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0116" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0116</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0115 #0114 #0113 #0112 #0111 #0110
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0119" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">1.000000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 1.000000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0118" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0119</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone02</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.100000</hkparam>
+					<hkparam name="restitution">0.250000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.500000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.579746</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.015625 0.015625 0.015625 1.333333)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0117" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0116</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0108 #0118</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0120" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0121" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0122" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0123" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0124" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0125" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0126" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0126</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(11.500000 12.500000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.500000 0.500000 0.000000 0.000000)
+						(-0.250000 0.250000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0125 #0124 #0123 #0122 #0121 #0120
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0129" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">1.125000</hkparam>
+			<hkparam name="vertexA">(0.000000 0.000000 12.000000 1.125000)</hkparam>
+			<hkparam name="vertexB">(0.000000 0.000000 0.000000 1.125000)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0128" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0129</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">167772159</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">NPC TailBone01</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.000000</hkparam>
+					<hkparam name="restitution">0.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.500000 1.000000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.500000 1.000000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.500000 1.000000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">12.193108</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">127</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.010417 0.010417 0.010417 1.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0127" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0126</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0118 #0128</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0130" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0131" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0132" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">1000.000000</hkparam>
+			<hkparam name="springDamping">100.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0133" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0134" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0135" class="hkpSpringDamperConstraintMotor" signature="0x7ead26f6">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="type">TYPE_SPRING_DAMPER</hkparam>
+			<hkparam name="minForce">-1000000.000000</hkparam>
+			<hkparam name="maxForce">1000000.000000</hkparam>
+			<hkparam name="springConstant">300.000000</hkparam>
+			<hkparam name="springDamping">3.000000</hkparam>
+		</hkobject>
+
+		<hkobject name="#0136" class="hkpGenericConstraintData" signature="0xda80914e">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="bridgeAtom">
+						<hkobject>
+							<hkparam name="type">TYPE_BRIDGE</hkparam>
+							<!-- buildJacobianFunc SERIALIZE_IGNORED -->
+							<hkparam name="constraintData">#0136</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="scheme">
+				<hkobject>
+					<!-- info SERIALIZE_IGNORED -->
+					<hkparam name="data" numelements="23">
+						(0.000000 0.000000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 -0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(-0.000000 0.000000 1.000000 0.000000)
+						(-0.125000 0.125000 0.000000 0.000000)
+						(-0.125000 0.125000 0.000000 0.000000)
+						(-0.125000 0.125000 0.000000 0.000000)
+						(0.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(2.000000 0.000000 0.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(1.000000 0.000000 0.000000 0.000000)
+						(0.000000 1.000000 0.000000 0.000000)
+						(0.000000 0.000000 1.000000 0.000000)
+						(-0.500000 1.000000 0.000000 0.000000)
+						(-1.000000 1.000000 0.000000 0.000000)
+						(-0.125000 0.125000 0.000000 0.000000)
+						(3.000000 0.000000 0.000000 0.000000)
+						(4.000000 0.000000 0.000000 0.000000)
+						(5.000000 0.000000 0.000000 0.000000)
+					</hkparam>
+					<hkparam name="commands" numelements="35">
+						1 2 4 0 4 1 4 2 16 0 16 1 16 2 15 0
+						15 1 15 2 8 9 17 0 17 1 17 2 14 0 14 1
+						14 2 0
+					</hkparam>
+					<!-- modifiers SERIALIZE_IGNORED -->
+					<hkparam name="motors" numelements="6">
+						#0135 #0134 #0133 #0132 #0131 #0130
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0139" class="hkpSphereShape" signature="0x89b169a3">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">1.000000</hkparam>
+			<!-- pad16 SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0138" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0139</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">1</hkparam>
+							<hkparam name="collisionFilterInfo">4294967295</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">POS TailBone01</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.000000</hkparam>
+					<hkparam name="restitution">0.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_KEYFRAMED</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="rotation1">(0.000000 0.000000 0.000000 1.000000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.732051</hkparam>
+							<hkparam name="linearDamping">0.050049</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0137" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0136</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0128 #0138</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0057" class="hkpPhysicsSystem" signature="0xd6c543df">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="rigidBodies" numelements="9">
+				#0138 #0128 #0118 #0108 #0098 #0088 #0078 #0066 #0068
+			</hkparam>
+			<hkparam name="constraints" numelements="8">
+				#0137 #0127 #0117 #0107 #0097 #0087 #0077 #0065
+			</hkparam>
+			<hkparam name="actions" numelements="0"></hkparam>
+			<hkparam name="phantoms" numelements="0"></hkparam>
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="active">true</hkparam>
+		</hkobject>
+
+	</hksection>
+
+</hkpackfile>

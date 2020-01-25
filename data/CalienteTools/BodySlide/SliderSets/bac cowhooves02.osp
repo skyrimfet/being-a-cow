@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac cowhooves02">
+        <DataFolder>bac cowhooves02</DataFolder>
+        <SourceFile>bac cowhooves02.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">cowhooves02</OutputFile>
+        <Shape target="foot">foot</Shape>
+        <Shape target="hooves">hooves</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="foot7B Low" target="foot" local="true">bac cowhooves02.osd\foot7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="foot7B High" target="foot" local="true">bac cowhooves02.osd\foot7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="foot7B Bombshell Low" target="foot" local="true">bac cowhooves02.osd\foot7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="foot7B Bombshell High" target="foot" local="true">bac cowhooves02.osd\foot7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="foot7B Natural Low" target="foot" local="true">bac cowhooves02.osd\foot7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="foot7B Natural High" target="foot" local="true">bac cowhooves02.osd\foot7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="foot7B Cleavage Low" target="foot" local="true">bac cowhooves02.osd\foot7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="foot7B Cleavage High" target="foot" local="true">bac cowhooves02.osd\foot7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="foot7B BCup Low" target="foot" local="true">bac cowhooves02.osd\foot7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="foot7B BCup High" target="foot" local="true">bac cowhooves02.osd\foot7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="foot7BUNP Low" target="foot" local="true">bac cowhooves02.osd\foot7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="foot7BUNP High" target="foot" local="true">bac cowhooves02.osd\foot7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="foot7B Oppai Low" target="foot" local="true">bac cowhooves02.osd\foot7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="foot7B Oppai High" target="foot" local="true">bac cowhooves02.osd\foot7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="foot7B CH Low" target="foot" local="true">bac cowhooves02.osd\foot7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="foot7B CH High" target="foot" local="true">bac cowhooves02.osd\foot7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="footUNP Low" target="foot" local="true">bac cowhooves02.osd\footUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="footUNP High" target="foot" local="true">bac cowhooves02.osd\footUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="footUNP Pushup Low" target="foot" local="true">bac cowhooves02.osd\footUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="footUNP Pushup High" target="foot" local="true">bac cowhooves02.osd\footUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="footUNP Skinny Low" target="foot" local="true">bac cowhooves02.osd\footUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="footUNP Skinny High" target="foot" local="true">bac cowhooves02.osd\footUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="footUNP Perky Low" target="foot" local="true">bac cowhooves02.osd\footUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="footUNP Perky High" target="foot" local="true">bac cowhooves02.osd\footUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="footUNPB Low" target="foot" local="true">bac cowhooves02.osd\footUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="footUNPB High" target="foot" local="true">bac cowhooves02.osd\footUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="footUNPB Chapi" target="foot" local="true">bac cowhooves02.osd\footUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="footUNPB Oppai v1" target="foot" local="true">bac cowhooves02.osd\footUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="footUNPB Oppai v3.2 Low" target="foot" local="true">bac cowhooves02.osd\footUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="footUNPB Oppai v3.2 High" target="foot" local="true">bac cowhooves02.osd\footUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="footUNPetite Low" target="foot" local="true">bac cowhooves02.osd\footUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="footUNPetite High" target="foot" local="true">bac cowhooves02.osd\footUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="footUNPC Low" target="foot" local="true">bac cowhooves02.osd\footUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="footUNPC High" target="foot" local="true">bac cowhooves02.osd\footUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="footUNPCM Low" target="foot" local="true">bac cowhooves02.osd\footUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="footUNPCM High" target="foot" local="true">bac cowhooves02.osd\footUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="footUNPSH Low" target="foot" local="true">bac cowhooves02.osd\footUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="footUNPSH High" target="foot" local="true">bac cowhooves02.osd\footUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="footUNPK Low" target="foot" local="true">bac cowhooves02.osd\footUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="footUNPK High" target="foot" local="true">bac cowhooves02.osd\footUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="footUNPK Bonus Low" target="foot" local="true">bac cowhooves02.osd\footUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="footUNPK Bonus High" target="foot" local="true">bac cowhooves02.osd\footUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="footUN7B Low" target="foot" local="true">bac cowhooves02.osd\footUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="footUN7B High" target="foot" local="true">bac cowhooves02.osd\footUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="footUNPBB Low" target="foot" local="true">bac cowhooves02.osd\footUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="footUNPBB High" target="foot" local="true">bac cowhooves02.osd\footUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="footSeraphim Low" target="foot" local="true">bac cowhooves02.osd\footSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="footSeraphim High" target="foot" local="true">bac cowhooves02.osd\footSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="footDemonfet Low" target="foot" local="true">bac cowhooves02.osd\footDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="footDemonfet High" target="foot" local="true">bac cowhooves02.osd\footDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="footDream Girl Low" target="foot" local="true">bac cowhooves02.osd\footDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="footDream Girl High" target="foot" local="true">bac cowhooves02.osd\footDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="footTop Model Low" target="foot" local="true">bac cowhooves02.osd\footTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="footTop Model High" target="foot" local="true">bac cowhooves02.osd\footTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="footLeito Low" target="foot" local="true">bac cowhooves02.osd\footLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="footLeito High" target="foot" local="true">bac cowhooves02.osd\footLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="footUNPF Low" target="foot" local="true">bac cowhooves02.osd\footUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="footUNPF High" target="foot" local="true">bac cowhooves02.osd\footUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="footUNPFx Low" target="foot" local="true">bac cowhooves02.osd\footUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="footUNPFx High" target="foot" local="true">bac cowhooves02.osd\footUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="footCNHF Low" target="foot" local="true">bac cowhooves02.osd\footCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="footCNHF High" target="foot" local="true">bac cowhooves02.osd\footCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="footCNHF Bonus Low" target="foot" local="true">bac cowhooves02.osd\footCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="footCNHF Bonus High" target="foot" local="true">bac cowhooves02.osd\footCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="footMCBM Low" target="foot" local="true">bac cowhooves02.osd\footMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="footMCBM High" target="foot" local="true">bac cowhooves02.osd\footMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="footVenus Low" target="foot" local="true">bac cowhooves02.osd\footVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="footVenus High" target="foot" local="true">bac cowhooves02.osd\footVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="footZGGB-R2 Low" target="foot" local="true">bac cowhooves02.osd\footZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="footZGGB-R2 High" target="foot" local="true">bac cowhooves02.osd\footZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="footManga Low" target="foot" local="true">bac cowhooves02.osd\footManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="footManga High" target="foot" local="true">bac cowhooves02.osd\footManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="footCHSBHC Low" target="foot" local="true">bac cowhooves02.osd\footCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="footCHSBHC High" target="foot" local="true">bac cowhooves02.osd\footCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

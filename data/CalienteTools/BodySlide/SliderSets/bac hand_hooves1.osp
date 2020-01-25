@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac hand_hooves1">
+        <DataFolder>bac hand_hooves1</DataFolder>
+        <SourceFile>bac hand_hooves1.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">hand_hooves1</OutputFile>
+        <Shape target="UniHand Nails">UniHand Nails</Shape>
+        <Shape target="twisted hand">twisted hand</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Low</Data>
+            <Data name="twisted hand7B Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B High</Data>
+            <Data name="twisted hand7B High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Bombshell Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Bombshell Low</Data>
+            <Data name="twisted hand7B Bombshell Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Bombshell High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Bombshell High</Data>
+            <Data name="twisted hand7B Bombshell High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Natural Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Natural Low</Data>
+            <Data name="twisted hand7B Natural Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Natural High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Natural High</Data>
+            <Data name="twisted hand7B Natural High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Cleavage Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Cleavage Low</Data>
+            <Data name="twisted hand7B Cleavage Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Cleavage High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Cleavage High</Data>
+            <Data name="twisted hand7B Cleavage High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B BCup Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B BCup Low</Data>
+            <Data name="twisted hand7B BCup Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B BCup High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B BCup High</Data>
+            <Data name="twisted hand7B BCup High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7BUNP Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7BUNP Low</Data>
+            <Data name="twisted hand7BUNP Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7BUNP High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7BUNP High</Data>
+            <Data name="twisted hand7BUNP High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Oppai Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Oppai Low</Data>
+            <Data name="twisted hand7B Oppai Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B Oppai High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B Oppai High</Data>
+            <Data name="twisted hand7B Oppai High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B CH Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B CH Low</Data>
+            <Data name="twisted hand7B CH Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="UniHand Nails7B CH High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand Nails7B CH High</Data>
+            <Data name="twisted hand7B CH High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted hand7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Low</Data>
+            <Data name="twisted handUNP Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP High</Data>
+            <Data name="twisted handUNP High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Pushup Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Pushup Low</Data>
+            <Data name="twisted handUNP Pushup Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Pushup High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Pushup High</Data>
+            <Data name="twisted handUNP Pushup High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Skinny Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Skinny Low</Data>
+            <Data name="twisted handUNP Skinny Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Skinny High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Skinny High</Data>
+            <Data name="twisted handUNP Skinny High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Perky Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Perky Low</Data>
+            <Data name="twisted handUNP Perky Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNP Perky High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNP Perky High</Data>
+            <Data name="twisted handUNP Perky High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB Low</Data>
+            <Data name="twisted handUNPB Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB High</Data>
+            <Data name="twisted handUNPB High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB Chapi" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB Chapi</Data>
+            <Data name="twisted handUNPB Chapi" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB Oppai v1" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB Oppai v1</Data>
+            <Data name="twisted handUNPB Oppai v1" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB Oppai v3.2 Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB Oppai v3.2 Low</Data>
+            <Data name="twisted handUNPB Oppai v3.2 Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPB Oppai v3.2 High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPB Oppai v3.2 High</Data>
+            <Data name="twisted handUNPB Oppai v3.2 High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPetite Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPetite Low</Data>
+            <Data name="twisted handUNPetite Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPetite High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPetite High</Data>
+            <Data name="twisted handUNPetite High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPC Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPC Low</Data>
+            <Data name="twisted handUNPC Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPC High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPC High</Data>
+            <Data name="twisted handUNPC High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPCM Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPCM Low</Data>
+            <Data name="twisted handUNPCM Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPCM High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPCM High</Data>
+            <Data name="twisted handUNPCM High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPSH Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPSH Low</Data>
+            <Data name="twisted handUNPSH Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPSH High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPSH High</Data>
+            <Data name="twisted handUNPSH High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPK Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPK Low</Data>
+            <Data name="twisted handUNPK Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPK High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPK High</Data>
+            <Data name="twisted handUNPK High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPK Bonus Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPK Bonus Low</Data>
+            <Data name="twisted handUNPK Bonus Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPK Bonus High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPK Bonus High</Data>
+            <Data name="twisted handUNPK Bonus High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUN7B Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUN7B Low</Data>
+            <Data name="twisted handUN7B Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUN7B High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUN7B High</Data>
+            <Data name="twisted handUN7B High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPBB Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPBB Low</Data>
+            <Data name="twisted handUNPBB Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPBB High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPBB High</Data>
+            <Data name="twisted handUNPBB High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsSeraphim Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsSeraphim Low</Data>
+            <Data name="twisted handSeraphim Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsSeraphim High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsSeraphim High</Data>
+            <Data name="twisted handSeraphim High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsDemonfet Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsDemonfet Low</Data>
+            <Data name="twisted handDemonfet Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsDemonfet High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsDemonfet High</Data>
+            <Data name="twisted handDemonfet High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsDream Girl Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsDream Girl Low</Data>
+            <Data name="twisted handDream Girl Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsDream Girl High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsDream Girl High</Data>
+            <Data name="twisted handDream Girl High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsTop Model Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsTop Model Low</Data>
+            <Data name="twisted handTop Model Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsTop Model High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsTop Model High</Data>
+            <Data name="twisted handTop Model High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsLeito Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsLeito Low</Data>
+            <Data name="twisted handLeito Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsLeito High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsLeito High</Data>
+            <Data name="twisted handLeito High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPF Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPF Low</Data>
+            <Data name="twisted handUNPF Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPF High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPF High</Data>
+            <Data name="twisted handUNPF High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPFx Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPFx Low</Data>
+            <Data name="twisted handUNPFx Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsUNPFx High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsUNPFx High</Data>
+            <Data name="twisted handUNPFx High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCNHF Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCNHF Low</Data>
+            <Data name="twisted handCNHF Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCNHF High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCNHF High</Data>
+            <Data name="twisted handCNHF High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCNHF Bonus Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCNHF Bonus Low</Data>
+            <Data name="twisted handCNHF Bonus Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCNHF Bonus High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCNHF Bonus High</Data>
+            <Data name="twisted handCNHF Bonus High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsMCBM Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsMCBM Low</Data>
+            <Data name="twisted handMCBM Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsMCBM High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsMCBM High</Data>
+            <Data name="twisted handMCBM High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsVenus Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsVenus Low</Data>
+            <Data name="twisted handVenus Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsVenus High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsVenus High</Data>
+            <Data name="twisted handVenus High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsZGGB-R2 Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsZGGB-R2 Low</Data>
+            <Data name="twisted handZGGB-R2 Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsZGGB-R2 High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsZGGB-R2 High</Data>
+            <Data name="twisted handZGGB-R2 High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsManga Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsManga Low</Data>
+            <Data name="twisted handManga Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsManga High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsManga High</Data>
+            <Data name="twisted handManga High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCHSBHC Low" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCHSBHC Low</Data>
+            <Data name="twisted handCHSBHC Low" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="UniHand NailsCHSBHC High" target="UniHand Nails" local="true">bac hand_hooves1.osd\UniHand NailsCHSBHC High</Data>
+            <Data name="twisted handCHSBHC High" target="twisted hand" local="true">bac hand_hooves1.osd\twisted handCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac uddersnewbig">
+        <DataFolder>bac uddersnewbig</DataFolder>
+        <SourceFile>bac uddersnewbig.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">uddersnewbig</OutputFile>
+        <Shape target="Cuisse">Cuisse</Shape>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="CuisseBreastsSSH" target="Cuisse" local="true">bac uddersnewbig.osd\CuisseBreastsSSH</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="CuisseBelly" target="Cuisse" local="true">bac uddersnewbig.osd\CuisseBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="CuisseBigBelly" target="Cuisse" local="true">bac uddersnewbig.osd\CuisseBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="CuissePregnancyBelly" target="Cuisse" local="true">bac uddersnewbig.osd\CuissePregnancyBelly</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

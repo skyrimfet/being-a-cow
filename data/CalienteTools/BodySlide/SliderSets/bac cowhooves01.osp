@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac cowhooves01">
+        <DataFolder>bac cowhooves01</DataFolder>
+        <SourceFile>bac cowhooves01.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">cowhooves01</OutputFile>
+        <Shape target="barefoot_hh">barefoot_hh</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Bombshell Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Bombshell High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Natural Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Natural High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Cleavage Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Cleavage High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B BCup Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B BCup High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7BUNP Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7BUNP High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Oppai Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B Oppai High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B CH Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="barefoot_hh7B CH High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hh7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Pushup Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Pushup High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Skinny Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Skinny High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Perky Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNP Perky High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB Chapi" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB Oppai v1" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB Oppai v3.2 Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPB Oppai v3.2 High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPetite Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPetite High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPC Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPC High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPCM Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPCM High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPSH Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPSH High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPK Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPK High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPK Bonus Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPK Bonus High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUN7B Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUN7B High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPBB Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPBB High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhSeraphim Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhSeraphim High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhDemonfet Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhDemonfet High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhDream Girl Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhDream Girl High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhTop Model Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhTop Model High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhLeito Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhLeito High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPF Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPF High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPFx Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhUNPFx High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCNHF Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCNHF High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCNHF Bonus Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCNHF Bonus High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhMCBM Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhMCBM High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhVenus Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhVenus High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhZGGB-R2 Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhZGGB-R2 High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhManga Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhManga High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCHSBHC Low" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="barefoot_hhCHSBHC High" target="barefoot_hh" local="true">bac cowhooves01.osd\barefoot_hhCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

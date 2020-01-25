@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac hooves_horseshoe_heavyarmor">
+        <DataFolder>bac hooves_horseshoe_heavyarmor</DataFolder>
+        <SourceFile>bac hooves_horseshoe_heavyarmor.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">hooves_horseshoe_heavyarmor</OutputFile>
+        <Shape target="cover">cover</Shape>
+        <Shape target="footfemale">footfemale</Shape>
+        <Shape target="horseshoe">horseshoe</Shape>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="footfemaleChubbyLegs" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleChubbyLegs</Data>
+            <Data name="coverChubbyLegs" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="footfemaleLegs" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleLegs</Data>
+            <Data name="coverLegs" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="footfemaleKneeHeight" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleKneeHeight</Data>
+            <Data name="coverKneeHeight" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="footfemaleCalfSize" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCalfSize</Data>
+            <Data name="coverCalfSize" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="footfemaleCalfSmooth" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCalfSmooth</Data>
+            <Data name="coverCalfSmooth" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Low</Data>
+            <Data name="cover7B Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="footfemale7B High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B High</Data>
+            <Data name="cover7B High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Bombshell Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Bombshell Low</Data>
+            <Data name="cover7B Bombshell Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Bombshell High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Bombshell High</Data>
+            <Data name="cover7B Bombshell High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Natural Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Natural Low</Data>
+            <Data name="cover7B Natural Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Natural High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Natural High</Data>
+            <Data name="cover7B Natural High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Cleavage Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Cleavage Low</Data>
+            <Data name="cover7B Cleavage Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Cleavage High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Cleavage High</Data>
+            <Data name="cover7B Cleavage High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B BCup Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B BCup Low</Data>
+            <Data name="cover7B BCup Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="footfemale7B BCup High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B BCup High</Data>
+            <Data name="cover7B BCup High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="footfemale7BUNP Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7BUNP Low</Data>
+            <Data name="cover7BUNP Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="footfemale7BUNP High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7BUNP High</Data>
+            <Data name="cover7BUNP High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Oppai Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Oppai Low</Data>
+            <Data name="cover7B Oppai Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Oppai High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B Oppai High</Data>
+            <Data name="cover7B Oppai High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B CH Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B CH Low</Data>
+            <Data name="cover7B CH Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="footfemale7B CH High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemale7B CH High</Data>
+            <Data name="cover7B CH High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\cover7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Low</Data>
+            <Data name="coverUNP Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP High</Data>
+            <Data name="coverUNP High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Pushup Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Pushup Low</Data>
+            <Data name="coverUNP Pushup Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Pushup High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Pushup High</Data>
+            <Data name="coverUNP Pushup High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Skinny Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Skinny Low</Data>
+            <Data name="coverUNP Skinny Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Skinny High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Skinny High</Data>
+            <Data name="coverUNP Skinny High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Perky Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Perky Low</Data>
+            <Data name="coverUNP Perky Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Perky High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNP Perky High</Data>
+            <Data name="coverUNP Perky High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB Low</Data>
+            <Data name="coverUNPB Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB High</Data>
+            <Data name="coverUNPB High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Chapi" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB Chapi</Data>
+            <Data name="coverUNPB Chapi" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v1" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB Oppai v1</Data>
+            <Data name="coverUNPB Oppai v1" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v3.2 Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB Oppai v3.2 Low</Data>
+            <Data name="coverUNPB Oppai v3.2 Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v3.2 High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPB Oppai v3.2 High</Data>
+            <Data name="coverUNPB Oppai v3.2 High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPetite Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPetite Low</Data>
+            <Data name="coverUNPetite Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPetite High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPetite High</Data>
+            <Data name="coverUNPetite High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPC Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPC Low</Data>
+            <Data name="coverUNPC Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPC High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPC High</Data>
+            <Data name="coverUNPC High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPCM Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPCM Low</Data>
+            <Data name="coverUNPCM Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPCM High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPCM High</Data>
+            <Data name="coverUNPCM High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPSH Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPSH Low</Data>
+            <Data name="coverUNPSH Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPSH High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPSH High</Data>
+            <Data name="coverUNPSH High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPK Low</Data>
+            <Data name="coverUNPK Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPK High</Data>
+            <Data name="coverUNPK High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Bonus Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPK Bonus Low</Data>
+            <Data name="coverUNPK Bonus Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Bonus High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPK Bonus High</Data>
+            <Data name="coverUNPK Bonus High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUN7B Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUN7B Low</Data>
+            <Data name="coverUN7B Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="footfemaleUN7B High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUN7B High</Data>
+            <Data name="coverUN7B High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPBB Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPBB Low</Data>
+            <Data name="coverUNPBB Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPBB High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPBB High</Data>
+            <Data name="coverUNPBB High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="footfemaleSeraphim Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleSeraphim Low</Data>
+            <Data name="coverSeraphim Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="footfemaleSeraphim High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleSeraphim High</Data>
+            <Data name="coverSeraphim High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="footfemaleDemonfet Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleDemonfet Low</Data>
+            <Data name="coverDemonfet Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="footfemaleDemonfet High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleDemonfet High</Data>
+            <Data name="coverDemonfet High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="footfemaleDream Girl Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleDream Girl Low</Data>
+            <Data name="coverDream Girl Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="footfemaleDream Girl High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleDream Girl High</Data>
+            <Data name="coverDream Girl High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="footfemaleTop Model Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleTop Model Low</Data>
+            <Data name="coverTop Model Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="footfemaleTop Model High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleTop Model High</Data>
+            <Data name="coverTop Model High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="footfemaleLeito Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleLeito Low</Data>
+            <Data name="coverLeito Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="footfemaleLeito High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleLeito High</Data>
+            <Data name="coverLeito High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPF Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPF Low</Data>
+            <Data name="coverUNPF Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPF High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPF High</Data>
+            <Data name="coverUNPF High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPFx Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPFx Low</Data>
+            <Data name="coverUNPFx Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPFx High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleUNPFx High</Data>
+            <Data name="coverUNPFx High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCNHF Low</Data>
+            <Data name="coverCNHF Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCNHF High</Data>
+            <Data name="coverCNHF High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Bonus Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCNHF Bonus Low</Data>
+            <Data name="coverCNHF Bonus Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Bonus High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCNHF Bonus High</Data>
+            <Data name="coverCNHF Bonus High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="footfemaleMCBM Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleMCBM Low</Data>
+            <Data name="coverMCBM Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="footfemaleMCBM High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleMCBM High</Data>
+            <Data name="coverMCBM High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleVenus Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleVenus Low</Data>
+            <Data name="coverVenus Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="footfemaleVenus High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleVenus High</Data>
+            <Data name="coverVenus High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="footfemaleZGGB-R2 Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleZGGB-R2 Low</Data>
+            <Data name="coverZGGB-R2 Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="footfemaleZGGB-R2 High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleZGGB-R2 High</Data>
+            <Data name="coverZGGB-R2 High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="footfemaleManga Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleManga Low</Data>
+            <Data name="coverManga Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="footfemaleManga High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleManga High</Data>
+            <Data name="coverManga High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCHSBHC Low" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCHSBHC Low</Data>
+            <Data name="coverCHSBHC Low" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="footfemaleCHSBHC High" target="footfemale" local="true">bac hooves_horseshoe_heavyarmor.osd\footfemaleCHSBHC High</Data>
+            <Data name="coverCHSBHC High" target="cover" local="true">bac hooves_horseshoe_heavyarmor.osd\coverCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

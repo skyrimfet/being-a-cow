@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="bac hooves_f_bare">
+        <DataFolder>bac hooves_f_bare</DataFolder>
+        <SourceFile>bac hooves_f_bare.nif</SourceFile>
+        <OutputPath>meshes\bac</OutputPath>
+        <OutputFile GenWeights="true">hooves_f_bare</OutputFile>
+        <Shape target="footfemale">footfemale</Shape>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="footfemaleChubbyLegs" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="footfemaleLegs" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="footfemaleKneeHeight" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="footfemaleCalfSize" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="footfemaleCalfSmooth" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="footfemale7B High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Bombshell Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Bombshell High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Natural Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Natural High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Cleavage Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Cleavage High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B BCup Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="footfemale7B BCup High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="footfemale7BUNP Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="footfemale7BUNP High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B Oppai Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="footfemale7B Oppai High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="footfemale7B CH Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="footfemale7B CH High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemale7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Pushup Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Pushup High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Skinny Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Skinny High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Perky Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNP Perky High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Chapi" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v1" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v3.2 Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPB Oppai v3.2 High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPetite Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPetite High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPC Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPC High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPCM Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPCM High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPSH Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPSH High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Bonus Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPK Bonus High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUN7B Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="footfemaleUN7B High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPBB Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPBB High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="footfemaleSeraphim Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="footfemaleSeraphim High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="footfemaleDemonfet Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="footfemaleDemonfet High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="footfemaleDream Girl Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="footfemaleDream Girl High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="footfemaleTop Model Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="footfemaleTop Model High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="footfemaleLeito Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="footfemaleLeito High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPF Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPF High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPFx Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="footfemaleUNPFx High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Bonus Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="footfemaleCNHF Bonus High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="footfemaleMCBM Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="footfemaleMCBM High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="footfemaleVenus Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="footfemaleVenus High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="footfemaleZGGB-R2 Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="footfemaleZGGB-R2 High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="footfemaleManga Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="footfemaleManga High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="footfemaleCHSBHC Low" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="footfemaleCHSBHC High" target="footfemale" local="true">bac hooves_f_bare.osd\footfemaleCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
